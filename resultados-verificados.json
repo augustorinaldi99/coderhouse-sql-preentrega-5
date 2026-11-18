@@ -1,0 +1,52 @@
+{
+  "filas": 164,
+  "meses": 24,
+  "categorias": 8,
+  "rango_meses": [
+    "2023-01-01",
+    "2024-12-01"
+  ],
+  "etiquetas": {
+    "Bajo el promedio": 100,
+    "Exitoso": 64
+  },
+  "primeras_filas": [
+    {
+      "mes": "2023-01-01",
+      "categoria": "Electrónica",
+      "venta_total": "3033.90",
+      "ranking_mes": "1",
+      "venta_acumulada": "3033.90",
+      "promedio_historico": "6229.79",
+      "comparativa": "Bajo el promedio"
+    },
+    {
+      "mes": "2023-01-01",
+      "categoria": "Juguetes y Entretenimiento",
+      "venta_total": "390.44",
+      "ranking_mes": "2",
+      "venta_acumulada": "390.44",
+      "promedio_historico": "318.55",
+      "comparativa": "Exitoso"
+    },
+    {
+      "mes": "2023-01-01",
+      "categoria": "Deportes y Outdoors",
+      "venta_total": "381.07",
+      "ranking_mes": "3",
+      "venta_acumulada": "381.07",
+      "promedio_historico": "1289.97",
+      "comparativa": "Bajo el promedio"
+    },
+    {
+      "mes": "2023-01-01",
+      "categoria": "Belleza y Cuidado Personal",
+      "venta_total": "337.02",
+      "ranking_mes": "4",
+      "venta_acumulada": "337.02",
+      "promedio_historico": "229.55",
+      "comparativa": "Exitoso"
+    }
+  ],
+  "verificacion": "Totales, ranking, acumulado, promedio y etiquetas cotejados contra calculo independiente para todas las filas."
+}
